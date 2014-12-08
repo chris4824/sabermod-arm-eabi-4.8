@@ -43,7 +43,7 @@ Introduction
 ************
 
 This brief manual contains documentation for the GNU binary utilities
-(SaberMod-4.8.4_arm-graphite) version 2.24.51:
+(UBER-SaberMod-4.8.4_arm-graphite) version 2.24.51:
 
    This document is distributed under the terms of the GNU Free
 Documentation License version 1.3.  A copy of the license is included in
@@ -4836,34 +4836,34 @@ Binutils Index
 
 Tag Table:
 Node: Top1893
-Node: ar3621
-Node: ar cmdline6755
-Node: ar scripts17088
-Node: nm22774
-Node: objcopy32594
-Node: objdump64804
-Node: ranlib86939
-Node: size88538
-Node: strings91514
-Node: strip93943
-Node: c++filt101091
-Ref: c++filt-Footnote-1105905
-Node: addr2line106011
-Node: nlmconv110306
-Node: windmc112885
-Node: windres116542
-Node: dlltool122901
-Node: def file format135671
-Node: readelf138201
-Node: elfedit145646
-Node: Common Options147880
-Node: Selecting the Target System148914
-Node: Target Selection149846
-Node: Architecture Selection151827
-Node: Reporting Bugs152655
-Node: Bug Criteria153434
-Node: Bug Reporting153987
-Node: GNU Free Documentation License160857
-Node: Binutils Index186017
+Node: ar3626
+Node: ar cmdline6760
+Node: ar scripts17093
+Node: nm22779
+Node: objcopy32599
+Node: objdump64809
+Node: ranlib86944
+Node: size88543
+Node: strings91519
+Node: strip93948
+Node: c++filt101096
+Ref: c++filt-Footnote-1105910
+Node: addr2line106016
+Node: nlmconv110311
+Node: windmc112890
+Node: windres116547
+Node: dlltool122906
+Node: def file format135676
+Node: readelf138206
+Node: elfedit145651
+Node: Common Options147885
+Node: Selecting the Target System148919
+Node: Target Selection149851
+Node: Architecture Selection151832
+Node: Reporting Bugs152660
+Node: Bug Criteria153439
+Node: Bug Reporting153992
+Node: GNU Free Documentation License160862
+Node: Binutils Index186022
 
 End Tag Table

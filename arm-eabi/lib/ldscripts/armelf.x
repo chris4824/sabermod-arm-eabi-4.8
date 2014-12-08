@@ -1,9 +1,9 @@
 /* Default linker script, for normal executables */
-/* Modified for Android.  */
 OUTPUT_FORMAT("elf32-littlearm", "elf32-bigarm",
 	      "elf32-littlearm")
 OUTPUT_ARCH(arm)
 ENTRY(_start)
+SEARCH_DIR("=/home/cl3kener/uber_toolchain/sm-arm-eabi-4.8/arm-eabi/lib"); SEARCH_DIR("=/usr/local/lib"); SEARCH_DIR("=/lib"); SEARCH_DIR("=/usr/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */
